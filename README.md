@@ -162,7 +162,10 @@ Using data analysis and visualization techniques, this project helps businesses 
 ✅ Interactive Filters for Better User Experience  
 
 ---
+📷 Dashboard Preview
+<img width="1313" height="747" alt="Screenshot 2026-05-05 151848" src="https://github.com/user-attachments/assets/e8fc55b2-d372-437a-af16-f74fe06b0a72" />
 
+----------------------------------------------------------------------------------------------
 # ✅ Conclusion
 
 This project demonstrates how Python-based EDA and Power BI dashboards can uncover meaningful business insights from coffee sales data. The analysis helps understand customer behavior, sales trends, and product performance, supporting better business decision-making.
